@@ -13,7 +13,7 @@ Answer the following questions about the HTTP request and response process.
     - The body, containing data asociated with the client's request
 
 3. Which part of an HTTP request is optional?
-    The body is the optional part of an HTTP request as many request methods do not require one.
+    - The body is the optional part of an HTTP request as many request methods do not require one.
 
 4. What are the three parts of an HTTP response?
     - The status
